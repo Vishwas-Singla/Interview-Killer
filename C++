@@ -1,0 +1,61 @@
+Sites from where you can read and learn C++. 
+
+https://thispointer.com/
+https://bogotobogo.com/
+https://www.geeksforgeeks.org/c-plus-plus/
+
+
+You Tube Channels that you can refer
+
+https://www.youtube.com/watch?v=Iuo9PpGE04Y&list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF
+https://www.youtube.com/results?search_query=cpp+nuts
+https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb
+
+
+Important Topics To Cover
+
+Virtual pointer, Virtual Functions, VTable , Vptr   {Saurabh Shukla Video}
+OOPS Concepts
+Diamond Problem
+Singleton Class
+Is Singleton Thread safe or not
+Size of Empty Class
+C++11 Move Semantics
+L value R value 
+Pointer Arithmetic
+References
+Function Pointer,  Functors, Lambda Function {CallBacks}
+STL 
+Internal working of Vector, List, Dequeue, Map, Unordered_Map, Set,Unordered_Set,  Queue, Stack, Heap
+Emplace vs Insert
+Static Keyword
+Static Functions
+Padding
+User defined object insertion in map, set by overloading operators
+Hash Function Custom Hasher and Comparator in Unordered_map and unordered_set
+<T1,T2,T3.....Tn>  in all Stl containers
+Iterators and containers
+Smart Pointers
+Implementation of Shared Pointer
+Implementation of Copy Constructor
+Implementation of Assignment Operator
+Implementation of Move Constructor
+Implementation of Move Assignment
+Implementation of Singleton Class
+Implementation of Final Class
+Operator Overloading  {Cpp Nuts}
+Implementation of new and delete (Cpp Nuts) (Local and Global)
+Implementation of << and >>
+Implementation of pre vs post increamnet
+Implementation of []
+
+
+
+
+
+
+Important Links
+
+
+https://medium.com/analytics-vidhya/c-shared-ptr-and-how-to-write-your-own-d0d385c118ad  {Shared Pointer}
+
